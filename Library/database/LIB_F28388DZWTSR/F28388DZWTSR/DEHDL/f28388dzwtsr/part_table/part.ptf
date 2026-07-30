@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'F28388DZWTSR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "F28388DZWTSR" (!) = "", "BGA337C80P19X19_1600X1600X140", "BGA", "595-F28388DZWTSR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/F28388DZWTSR?qs=mAH9sUMRCtsR9XHp7VqOZA%3D%3D", "F28388DZWTSR", "https://www.arrow.com/en/products/f28388dzwtsr/texas-instruments?utm_currency=USD&region=nac", "32-bit Microcontrollers - MCU C2000 32-bit MCU w/ connectivity manager, 2x C28x+CLA CPU, 1.5-MB flash, FPU64, CLB, ENET, EtherCAT 337-NFBGA -40 to 125", "https://www.ti.com/lit/ds/symlink/tms320f28388d.pdf?ts=1627491509300", "1.4 mm"
+END_PART
+
+END.

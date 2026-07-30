@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F28388DZWTSR
+D 32-bit Microcontrollers - MCU C2000 32-bit MCU w/ connectivity manager, 2x C28x+CLA CPU, 1.5-MB flash, FPU64, CLB, ENET, EtherCAT 337-NFBGA -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/tms320f28388d.pdf?ts=1627491509300
+$ENDCMP
+#
+#End Doc Library

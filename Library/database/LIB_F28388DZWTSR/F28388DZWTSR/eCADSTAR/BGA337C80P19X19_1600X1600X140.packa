@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "F28388DZWTSR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-08-11:51:41)
+    (mountForm default
+        (footprintRef "BGA337C80P19X19_1600X1600X140")
+        (spec "System")
+    )
+)

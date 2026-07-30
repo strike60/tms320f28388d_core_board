@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=F28388DZWTSR
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=337
+Version=1.1
+Released=2021-07-29 09:53:56
+Downloaded=2026-07-16 16:36:58
+3D=Y

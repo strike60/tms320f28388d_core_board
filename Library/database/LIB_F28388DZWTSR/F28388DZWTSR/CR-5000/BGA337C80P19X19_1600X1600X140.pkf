@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BGA337C80P19X19_1600X1600X140"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BGA337C80P19X19_1600X1600X140")
+        (spec "default")
+    )
+)
